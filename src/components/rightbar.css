@@ -1,0 +1,24 @@
+ .mymain{
+    height: 395px;
+     background-color: rgb(164, 211, 204);
+    width: 400px;
+    margin-top: 15px;
+    border-radius: 5px;
+}  
+ .myfirstdiv{
+    display: flex;
+    margin: 20px;
+}  
+.myone{
+    margin-right: 230px; 
+
+}     
+.myimg5{
+    margin-top: 50px;
+}
+button{
+    cursor: pointer;
+}  
+select{
+    cursor: pointer;
+}

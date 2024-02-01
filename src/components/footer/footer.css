@@ -1,0 +1,83 @@
+.footer{
+    margin-top: 20px;
+    margin-left: 10px;
+}  
+.divf1{
+    text-align: left;
+}  
+.btn6{
+  height: 25px;
+  width: 60px;
+  background-color: rgb(159, 159, 159);
+}  
+.btn7{
+    height: 25px;
+    width: 60px;  
+    margin-right: 563px;
+}
+.btn8{
+    height: 25px;
+    width: 190px;
+    background-color: rgb(219, 219, 225);
+    color: rgb(9, 7, 7);
+    margin-right: 40px;
+    border-radius: 5px;
+}  
+.mysel{
+    height: 25px;
+    width: 140px;
+}  
+.mycon{
+    margin-right:60px;
+
+}  
+.fa-left-right{
+    margin-left: 40px;
+}  
+/* Existing CSS for the table */
+table {
+    width: 96%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Additional CSS for styling */
+table {
+    margin-top: 20px; /* Add some spacing above the table */
+    border-radius: 8px; /* Add rounded corners to the table */
+    overflow: hidden; /* Hide overflow for rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for depth */
+}
+
+th {
+    background-color: #3498db; /* Blue background for header cells */
+    color: #fff; /* White text color for header cells */
+}
+
+td {
+    background-color: #ecf0f1; /* Light gray background for data cells */
+}
+
+tr:hover {
+    background-color: #d4e6f1; /* Light blue background on hover for table rows */
+}
+
+.topmain {
+    background-color: #ffffff; /* Red background for main heading */
+    color: #fff; /* White text color for main heading */
+    padding: 10px;
+    border-radius: 8px; /* Add rounded corners to the main heading */
+}
+
+.btn69{
+    width: 40px;
+    margin-right: 30px;
+}
+select{
+    border-radius: 5px;
+}  

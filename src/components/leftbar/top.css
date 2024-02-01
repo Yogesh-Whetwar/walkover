@@ -1,0 +1,110 @@
+.topmain{
+width: 845px;
+/* background-color: rgb(111, 108, 101); */
+height: 410px;
+}  
+.first{
+  height: 220px;
+  background-color: rgb(164, 211, 204);
+  width: 790px;
+  margin-left: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+}  
+.sec{
+    height: 160px;
+    background-color: rgb(164, 211, 204);
+    width: 790px;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+}  
+.p1,.p2{
+    display: inline-block;
+}  
+.p1{
+    margin-right: 500px;
+    color:black;
+}  
+.p3,.p4{
+    display: inline-block;
+}  
+.p3{
+    /* margin-right: 630px; */
+    font-size: 28px;
+}  
+.p4{
+    /* margin-right: 100px; */  
+    margin-left: 10px;
+    color:black;
+}  
+.inside{
+    margin-right: 590px;
+}  
+.btn1{
+    height: 35px;
+    width: 130px;
+    margin-right: 10px;
+   background-color: rgb(112, 112, 149);
+   color: white;
+   border-radius: 5px;
+}
+.btn2{
+    height: 35px;
+    width: 100px;
+    background-color: rgb(148, 145, 142);
+   margin-left: 20px;
+   margin-right: 330px;
+   border-radius: 5px;
+   color: white;
+}
+.btn3{
+    height: 35px;
+    width: 140px;
+    background-color: rgb(219, 219, 225);
+    color: rgb(9, 7, 7);
+    border-radius: 5px;
+}  
+/* .inside2{
+margin-right: 350px;
+} */  
+.btn4{
+    
+       height: 35px;
+        width: 130px;
+        background-color: rgb(148, 145, 142);
+       margin-left: 20px;
+     color:white;
+       border-radius: 5px;
+    }  
+    .pl{
+        margin-right: 550px;
+       padding-top: 10px;
+       color:black;
+    }  
+    .p6{
+        display: inline-block;
+       text-align: left;  
+       margin-right: 25px;
+       color: black;
+    }  
+     .top2{
+        text-align: left;
+        margin-left: 28px;
+     }  
+     .select2{
+        width: 120px;
+        margin-right: 5px;
+     }  
+     .myinp2{
+        margin-right: 3px;
+        border-radius: 5px;
+     }  
+     .top3{
+        text-align: left;
+        margin-left: 10px;
+        margin-top: 10px;
+     }  
+     .yogi{
+        display: flex;
+     }

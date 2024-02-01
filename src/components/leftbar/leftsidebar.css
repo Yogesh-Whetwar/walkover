@@ -1,0 +1,97 @@
+.top{
+    width:200px ;
+    height: 730px;
+    background-color:rgb(236, 254, 247);
+    display: flex;  
+    justify-content: space-between;
+}    
+.main{
+    display: flex;
+}
+.heading{
+    font-weight: bold;
+    margin: 5px;
+}  
+.drop{
+    margin: 5px;
+}  
+.selectone{
+    width: 20px;
+}  
+.cut{
+    flex:2;
+    margin: 5px;
+}  
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin-left: 10;
+    margin-bottom: 10;
+    margin-right: 20px;
+}
+.mylist{
+  
+}  
+li{
+    text-align: left; 
+    margin-left: 20;
+    padding-left:15px;
+    padding-top:10px;
+}  
+.listele{
+    margin-bottom: 25px;
+}  
+.subbtn{
+    margin-top: 190px;
+    width: 165px;  
+    height: 30px;
+    background-color: rgb(219, 219, 225);
+    color: rgb(9, 7, 7);
+    margin-left: 0px;
+    border-radius: 5px;
+}  
+i{
+    margin-right: 5px;
+  
+} 
+#searchele{
+    height: 25px;
+    width: 140px;
+}  
+.fa-caret-up{  
+  margin-left: 30px;
+ 
+}  
+.comp{
+    margin-top: 10px;
+    margin-left: 0px;
+}  
+
+
+.listele {
+    display: flex;
+    align-items: center;
+}
+
+.listele i {
+    margin-right: 8px; /* Adjust the spacing between the icon and the input */
+}
+
+.listele input {
+    flex-grow: 1;
+    border: none;
+    border-bottom: 1px solid #333; /* Add a bottom border for the input */
+    padding: 5px;
+    outline: none;
+}   
+.fa-arrow-left{
+    margin-left: 15px;
+    margin-top: 5px;
+}    
+select{
+    cursor: pointer;
+}
+select:hover{  
+
+  background-color: red;
+}
